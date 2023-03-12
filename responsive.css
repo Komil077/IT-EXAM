@@ -1,0 +1,143 @@
+@media(max-width:600px) {
+body {
+    overflow-x: hidden;
+}
+
+.header {
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 30px;
+}
+
+.header .headerOne img {
+    width: 50px;
+    height: 12px;
+    column-gap: 0;
+}
+
+.header .headerTwo .list {
+    column-gap: 10px;
+}
+
+.header .headerTwo .list .listItem .itemLink{
+    font-size: 10px;
+    line-height: 0;
+}
+.header .headerTwo .button {
+    width: 110px;
+    height: 25px;
+    font-size: 12px;
+}
+
+.biznesning-keyingi-bosqichi {
+    display: block;
+    line-height: 100px;
+    padding: 0;
+    /* text-align: center; */
+}
+.biznesning-keyingi-bosqichi .rightSide .yt {
+    width: 398px;
+    height: 198px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+.biznesning-keyingi-bosqichi .leftSide {
+    text-align: center;
+}
+.biznesning-keyingi-bosqichi .leftSide .title {
+    font-size: 20px;
+    margin-left: 40px;
+    width: 50%;
+}
+.biznesning-keyingi-bosqichi .leftSide .text {
+    font-size: 10px;
+    margin-left: 50px;
+    width: 50%;
+}
+.biznesning-keyingi-bosqichi .leftSide .button {
+    width: 95%;
+}
+
+
+.XIZMATLAR .xizmatlar h1 {
+    font-size: 21px;
+}
+.XIZMATLAR .xizmatlar p {
+    font-size: 13px;
+    width: 90%;
+}
+
+.XIZMATLAR .buyurtma {
+    display: grid;
+}
+
+.Qanday-ishlaymiz p {
+    width: 90%;
+}
+
+.TALABLARNI-ANIQLAB-CHIQAMIZ {
+    display: block;
+    line-height: 100px;
+    text-align: center;
+}
+.TALABLARNI-ANIQLAB-CHIQAMIZ .rightSide .text {
+    width: 100%;
+}
+
+.BIR-NECHA-YECHIMLARNI {
+    display: block;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.LOYIHA-UCHUN-VAQT-BELGILIMIZ {
+    display: block;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.ALO-SIFAT-BILAN {
+    display: block;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.QOLLAB-QUVVATLAB {
+    display: block;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.Buyurtma-berish .button {
+    width: 90%;
+}
+
+.ROYHATDAN-UTISH .buyurtma-berish .text {
+    width: 90%;
+}
+
+
+.footer {
+    padding: 40px 20px;
+    margin: 0;
+    column-gap: 0;
+    margin-right: 0;
+}
+
+.COPYRIGHT .title {
+    font-size: 14px;
+}
+.COPYRIGHT .text {
+    font-size: 10px;
+    width: 70%;
+    margin-right: 50px;
+}
+
+.footer .list .listItem .Link {
+    margin-right: 30px;
+}
+
+    
+}
