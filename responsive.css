@@ -32,32 +32,8 @@ body {
 }
 
 .biznesning-keyingi-bosqichi {
-    display: block;
+    flex-direction: column;
     line-height: 100px;
-    padding: 0;
-    /* text-align: center; */
-}
-.biznesning-keyingi-bosqichi .rightSide .yt {
-    width: 398px;
-    height: 198px;
-    margin-left: 50px;
-    margin-bottom: 50px;
-}
-.biznesning-keyingi-bosqichi .leftSide {
-    text-align: center;
-}
-.biznesning-keyingi-bosqichi .leftSide .title {
-    font-size: 20px;
-    margin-left: 40px;
-    width: 50%;
-}
-.biznesning-keyingi-bosqichi .leftSide .text {
-    font-size: 10px;
-    margin-left: 50px;
-    width: 50%;
-}
-.biznesning-keyingi-bosqichi .leftSide .button {
-    width: 95%;
 }
 
 
